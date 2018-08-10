@@ -1,0 +1,16 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: 40px;
+  background: yellowgreen;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
