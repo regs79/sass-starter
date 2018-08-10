@@ -6,8 +6,25 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regs79/sass-starter.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "scss",
+    "sass",
+    "javascript",
+    "browsersync",
+    "starter",
+    "lightweight"
+  ],
   "author": "Craig Regnier",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regs79/sass-starter/issues"
+  },
   "dependencies": {
     "browser-sync": "^2.24.6",
     "gulp": "^3.9.1",
