@@ -26,9 +26,14 @@
     "url": "https://github.com/regs79/sass-starter/issues"
   },
   "dependencies": {
-    "browser-sync": "^2.24.6",
-    "gulp": "^3.9.1",
-    "gulp-sass": "^4.0.1",
-    "lodash": "^4.17.10"
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.6.1",
+    "cssnano": "^4.1.10",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sourcemaps": "^2.6.5"
   }
 }

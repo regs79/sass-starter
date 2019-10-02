@@ -8,7 +8,7 @@ Just a simple set of starter files to get up and running quick to do basic css/j
 Run `npm install` in your project directory.
 
 ### 2) Start Gulp
-Run `gulp` in your project directory.
+Run `gulp watch` in your project directory.
 
 Your default browser should open up the **index.html** page.
 
