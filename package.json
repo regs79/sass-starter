@@ -28,8 +28,7 @@
   "dependencies": {
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
-    "gulp-sass": "^4.0.2",
-    "lodash": "^4.17.15"
+    "gulp-sass": "^4.0.2"
   },
   "devDependencies": {
     "autoprefixer": "^9.6.1",
